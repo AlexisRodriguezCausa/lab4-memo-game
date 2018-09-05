@@ -1,2 +1,4 @@
-# lab4-memo-game
-A simple memo game
+# MEMO GAME
+A simple memo game developed using `html-js`
+
+**CLONE AND HAVE FUN!**
